@@ -7,8 +7,8 @@
 //
 
 import XCTest
-@testable import DevFest_Nantes
 import shared
+@testable import DevFest_Nantes
 import Combine
 
 final class DevFest_NantesTests: XCTestCase {
