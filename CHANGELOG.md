@@ -4,7 +4,7 @@ Change Log
 Version 1.0.1 *(2022-10-??)*
 ----------------------------
 
-* 📣 Adds venue's floor plan.
+* 📣 Adds venue's floor plan
 * 📣 Adds additional session filters.
 * 📣 Implements refresh for Agenda.
 * 👍 Sort sessions by room names.
