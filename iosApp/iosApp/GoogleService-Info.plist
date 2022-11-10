@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>451587929709-rfu6ekfp8bg6kosq7tpqsquue5tq24ki.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.451587929709-rfu6ekfp8bg6kosq7tpqsquue5tq24ki</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>451587929709-2v5mrav2dgbal09fen68enushajd9t60.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBBd6nj-trGht2Z7ySNClmDhHCv6ZBBsU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>451587929709</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gdgnantes.devfest.iosApp</string>
+	<key>PROJECT_ID</key>
+	<string>devfest-nantes-2022</string>
+	<key>STORAGE_BUCKET</key>
+	<string>devfest-nantes-2022.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:451587929709:ios:033a9995e513e7d1fe7164</string>
+</dict>
+</plist>
