@@ -120,7 +120,7 @@ DEPENDENCIES:
   - Firebase/Crashlytics
   - Firebase/RemoteConfig
   - KMPNativeCoroutinesAsync
-  - KMPNativeCoroutinesCombine (= 0.12.5)
+  - KMPNativeCoroutinesCombine
   - NSLogger/Swift
   - SwiftGen (~> 6.6)
   - URLImage
@@ -170,6 +170,6 @@ SPEC CHECKSUMS:
   SwiftGen: 1366a7f71aeef49954ca5a63ba4bef6b0f24138c
   URLImage: 36a66c03ba2a9ccbbf06bc83431f2cef171008e8
 
-PODFILE CHECKSUM: 813e946e9fe93887cf5f413e07373d4d1e986c96
+PODFILE CHECKSUM: abae7cddb47b1bdbc1a4ffd48b32bbc669ba9089
 
 COCOAPODS: 1.11.3

@@ -1,9 +1,12 @@
 ENV['SWIFT_VERSION'] = '5'
 
+# ignore all warnings from all pods
+inhibit_all_warnings!
+
 target 'DevFest Nantes' do
   use_frameworks!
   platform :ios, '15'
-  pod 'KMPNativeCoroutinesCombine', '0.12.5'
+  pod 'KMPNativeCoroutinesCombine'
   pod 'KMPNativeCoroutinesAsync'
   pod "NSLogger/Swift"
   pod "URLImage"
